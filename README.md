@@ -1,2 +1,4 @@
 # Time_Series_Analysis_and_Forecasting
-The code will help understand how to clean the data and label it for time series applications.
+The data set Sample-Superstore has been used for the problem.
+Upload the pynb file and data to run the code.
+
